@@ -1,6 +1,6 @@
 const questions = [
 {
-question: "Which language runs ",
+question: "Which language runs in ",
 answers: [
 { text: "C++", correct: false },
 { text: "JavaScript", correct: true },
